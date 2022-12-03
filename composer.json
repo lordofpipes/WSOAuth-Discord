@@ -1,7 +1,8 @@
 {
 	"require": {
 		"mediawiki/oauthclient": "*",
-		"league/oauth2-facebook": "^2.0"
+		"league/oauth2-facebook": "^2.0",
+        "teampanfu/oauth2-discord": "*"
 	},
 	"require-dev": {
 		"mediawiki/mediawiki-codesniffer": "39.0.0",
